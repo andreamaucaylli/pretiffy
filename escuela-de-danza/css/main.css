@@ -1,0 +1,16 @@
+.studio{
+	background-image: url(../img/dance_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+}
+
+.boton{
+	background-color: #FCBA43;
+	border-radius: 7px;
+	padding: 20px;
+}
+
+.naveg{
+	text-align: center;
+}
